@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/banner/png/4.png",
+        "imageposition":"",
+        "title":"GOD GIVE US POWER TO BELIEVE",
+        "text":"Welcome to the Teaching about Life website. You have arrived at a place of hope and transformation. In a world filled with noise and distraction, our blog is dedicated to helping you discover life’s true purpose by drawing closer to God. Here, you’ll find inspiration, hope, and practical guidance to break free from worldly pressures and align your heart with God’s word.",
+        "position":""
+    },
+    {
+        "id":2,
+        "image":"assets/img/banner/png/5.png",
+        "imageposition":"left",
+        "title":"OPEN HEARTS OPEN HANDS",
+        "text":"Welcome to the Teaching about Life website. You have arrived at a place of hope and transformation. In a world filled with noise and distraction, our blog is dedicated to helping you discover life’s true purpose by drawing closer to God. Here, you’ll find inspiration, hope, and practical guidance to break free from worldly pressures and align your heart with God’s word..",
+        "position":"offset-lg-6"
+    }
+]

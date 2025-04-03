@@ -1,0 +1,49 @@
+[
+    {
+        "id":1,
+        "title":"Information",
+        "items":[
+            {
+                "title":"Ministries",
+                "link":"/ministries"
+            },
+            {
+                "title":"Volunteers",
+                "link":"/volunteers"
+            },
+            {
+                "title":"Our Church",
+                "link":"/"
+            },
+            {
+                "title":"Sermons",
+                "link":"/sermons"
+            }
+      
+           
+        ]
+    },
+    {
+        "id":2,
+        "title":"Others",
+        "items":[
+            {
+                "title":"Services",
+                "link":"/services"
+            },
+            {
+                "title":"Our Shop",
+                "link":"/shop"
+            },
+           
+            {
+                "title":"Blog",
+                "link":"/blog-grid"
+            },
+            {
+                "title":"Contact",
+                "link":"/contact"
+            }
+        ]
+    }
+]

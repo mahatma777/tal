@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "link": "/"
+       
+    },
+
+    {
+        "id": 2,
+        "linkText": "About Us",
+        "link": "/about"
+       
+    },
+
+    {
+        "id": 3,
+        "linkText": "Articles",
+        "link": "/articles"
+   
+       
+    },
+
+    {
+        "id": 4,
+        "linkText": "Sermons",
+        "child": true,
+        "submenu": [
+            {
+                "id": 4.1,
+                "link": "/sermons",
+                "linkText": "Sermon Records"
+            }
+           
+        ]
+    },
+
+    {
+        "id": 5,
+        "linkText": "Books",
+        "link": "/newsletters"
+       
+    },
+
+
+    {
+        "id": 6,
+        "linkText": "Devotion",
+        "link": "/upcomingevents"
+       
+    },
+
+
+
+    {
+        "id": 10,
+        "linkText": "Podcast",
+        "link": "/podcast"
+       
+    }
+
+
+    
+ 
+
+
+  
+   
+]
